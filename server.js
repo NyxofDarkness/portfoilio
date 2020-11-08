@@ -1,26 +1,14 @@
 'use strict';
 
-require('dotenv').config();
+const { response } = require('express');
+//Third party dependency.  Pulling it in to use it
 const express = require('express');
 const app = express();
-
 const PORT = process.env.PORT || 3000;
 
+// allows express to serve "static files" (imgs, text...)
 app.use(express.static('./public'));
 
-app.get('/hello', (request, response) => {
-  response.status(200).send('Hello');
+app.listen(PORT, () => {
+  console.log('Server up on Port 3000'); //Use over 1000 (most use 3000<= arbitrary standard)
 });
-
-app.get('/data', (request, response) => {
-  let airplanes = {
-    departure: Date.now(),
-    canFly: true,
-    pilot: 'Well Trained',
-  };
-  response.status(200).json(airplanes);
-});
-
-app.use('*', (request, response) => response.send('Sorry, that route does not exist.'));
-
-app.listen(PORT,() => console.log(`Listening on port ${PORT}`));
