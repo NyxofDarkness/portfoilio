@@ -105,29 +105,22 @@ Then the portfolio contents should be displayed
   - Convert the large image at the top of your portfolio to a video background or an image carousel containing at least three images
   - Add any other UI features that you feel will make your portfolio unique and personalized
 
-  ```md
-Number and name of feature: ________________________________
+### Contributions/Acknowledgment
 
-Estimate of time needed to complete: _____
+[Abhishek Kumar](https://pixabay.com/users/abhishekbiswas43-3645919/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2155784)
+  
+[Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2155784)
 
-Start time: _____
+[Levon Vardanyan](https://unsplash.com/photos/lnMpo_rhjxs?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
-Finish time: _____
+[Tianyi Ma](https://unsplash.com/photos/WiONHd_zYI4?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
-Actual time needed to complete: _____
-```
+[Andrew Ridley](https://unsplash.com/@aridley88)
 
-## Submission Instructions
+[Hassan Pasha](https://unsplash.com/photos/7SjEuEF06Zw?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
-1. Complete your Feature Tasks for the lab on a branch. 
-1. Create a PR back to the `master` branch of your repository, and merge it cleanly.
-1. Deploy again, so your latest code is published live via Heroku. 
-1. On Canvas, submit a link to your PR. Add a comment in your Canvas assignment which includes the following:
-    - A link to the deployed version of your latest code.
-    - A question within the context of today's lab assignment
-    - An observation about the lab assignment, or related 'Ah-hah!' moment
-    - How long you spent working on this assignment
+[Vincentiu Solomon](https://unsplash.com/photos/7SjEuEF06Zw?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
-    Contributions/Acknowledgment:
-    Image by <a href="https://pixabay.com/users/abhishekbiswas43-3645919/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2155784">Abhishek Kumar Biswas</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2155784">Pixabay</a>
-    
+[Micheal Dziedzic](https://unsplash.com/photos/deHhHOttSdk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+
+[Joshua Sortino](https://unsplash.com/photos/LqKhnDzSF-8?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
